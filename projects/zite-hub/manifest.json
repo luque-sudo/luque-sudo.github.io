@@ -1,10 +1,10 @@
 {
   "name": "PWA Hub",
   "short_name": "Hub",
-  "start_url": "gemini-code-1777033860207.html",
+  "start_url": "./index.html",
   "display": "standalone",
   "display_override": ["tabbed"],
-  "scope": "/",
+  "scope": "./",
   "icons": [
     {
       "src": "https://via.placeholder.com/192",
